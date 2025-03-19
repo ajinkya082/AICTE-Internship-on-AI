@@ -37,22 +37,6 @@ Processing Layer: Uses AI algorithms to analyze the data and generate personaliz
 
 Response Layer: Displays results, visualizes progress, and provides actionable feedback.
 
-🧑‍💻 Installation
-
-Follow these steps to set up and run the AI-powered Fitness Tracking System locally:
-
-Clone the repository:
-
-git clone https://github.com/yourusername/fitness-tracking-system.git
-cd fitness-tracking-system
-
-Install required packages:
-
-pip install -r requirements.txt
-
-Run the application:
-
-streamlit run app.py
 
 🧪 Dataset
 
